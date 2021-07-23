@@ -7,5 +7,8 @@ print("welcome")
 print("welcome to git-pycharm")
 
 
+print("git-pull")
+
+
 
 
